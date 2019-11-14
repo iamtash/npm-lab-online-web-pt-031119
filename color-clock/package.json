@@ -1,0 +1,18 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "practice creating package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamtash/npm-lab-online-web-pt-031119"
+  },
+  "author": "Natasha Chernis",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
